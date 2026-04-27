@@ -43,7 +43,7 @@ This project automates exactly that part, **without touching the analysis workfl
 
 ---
 
-## 🛰️ Supported Missions
+## Supported Missions
 
 | Mission | HEASARC Table | Notes |
 |---|---|---|
